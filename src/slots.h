@@ -1,12 +1,12 @@
 /*
- * slot.h
+ * slots.h
  *
- *  Created on: 3 Mar 2017
- *      Author: hghrm
+ *  Created on: 10 Mar 2017
+ *      Author: eoghancunningham
  */
 
-#ifndef SLOT_H_
-#define SLOT_H_
+#ifndef SLOTS_H_
+#define SLOTS_H_
 
 enum slotType {
 	ground,
@@ -14,4 +14,5 @@ enum slotType {
 	city
 };
 
-#endif /* SLOT_H_ */
+
+#endif /* SLOTS_H_ */
